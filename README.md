@@ -16,6 +16,13 @@ This project focuses on predicting customer churn using machine learning. Busine
 - **Matplotlib**
 - **SciPy**
 
+## Machine Learning Models Used
+- **Decision Tree Classifier**
+- **Random Forest Classifier**
+- **XGBoost Classifier**
+- **Ensemble Learning Methods**
+- **GridSearchCV for Hyperparameter Tuning**
+
 ## Approach
 1. **Data Loading & Cleaning:**  
    - Loaded customer data from CSV files.  
