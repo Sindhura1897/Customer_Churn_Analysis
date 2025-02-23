@@ -45,4 +45,4 @@ This project focuses on predicting customer churn using machine learning. Busine
 
 ## Results
 - Achieved **81% accuracy** in predicting customer churn using optimized machine learning models.  
-- Identified key factors influencing churn, such as contract type and monthly charges.
+- Identified key factors influencing churn.
